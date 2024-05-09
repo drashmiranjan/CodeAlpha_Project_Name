@@ -6,7 +6,7 @@ words_list = ["apple","goat","computer","laptop","english","time","game","live",
 
 # here we generate random word from the above list 
 random_word = random.choice(words_list)
-print(random_word)
+#print(random_word)
 
 
 lives = 7
