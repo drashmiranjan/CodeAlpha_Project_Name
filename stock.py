@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Alpha Vantage API configuration
-API_KEY = 'NWC4AT60L84IKXAQ'
+API_KEY = 'NW32XZC4AT6F60LS782384IKXAQDS'
 BASE_URL = 'https://www.alphavantage.co/query'
 
 # Portfolio class
